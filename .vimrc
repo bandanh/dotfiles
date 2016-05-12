@@ -76,8 +76,5 @@ autocmd BufWritePre * :%s/\s\+$//e
 
 set list listchars=tab:»-,trail:·,extends:»,precedes:«
 
-let g:airline#extensions#tabline#enabled = 1
-" let g:airline_powerline_fonts = 1
-" let g:airline#extensions#tmuxline#enabled = 0
-" let g:airline_theme='badwolf'
-" let g:airline_theme='powerlineish'
+let g:airline_powerline_fonts = 1
+let g:airline_theme='badwolf'
