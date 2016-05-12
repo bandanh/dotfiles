@@ -147,7 +147,7 @@ alias go='git checkout '
 alias gl='git log --graph --abbrev-commit --date=relative --all '
 
 # vim 7.4
-alias vim='/usr/local/Cellar/vim/7.4.488/bin/vim'
+# alias vim='/usr/local/Cellar/vim/7.4.488/bin/vim'
 
 # tail high light
 alias rl='grc tail -f'
